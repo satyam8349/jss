@@ -1,12 +1,8 @@
-const ans={
-    name: "ravi",
-    city: "bhopal",
-    code: 2334344,
+function shukla(x,y) {
+ console.log(x*y);
 }
-console.log(ans);
 
-
-
+shukla(22,6);
 
 
 
